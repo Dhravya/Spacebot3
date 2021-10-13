@@ -1,0 +1,1954 @@
+{
+    "servers": {
+        "751379481611993139": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": [
+                    "sus"
+                ],
+                "feeds": {
+                    "Last_reddit_post": {
+                        "882249128699117628": "q12c9n"
+                    },
+                    "redditfeed": {}
+                }
+            },
+            "users": {
+                "512885190251642891": {
+                    "experience": 1383,
+                    "level": 7
+                },
+                "736094781196861530": {
+                    "experience": 160,
+                    "level": 1
+                },
+                "751377695295930378": {
+                    "experience": 36,
+                    "level": 1
+                },
+                "875343484696027303": {
+                    "experience": 3,
+                    "level": 1
+                }
+            }
+        },
+        "862322645935325224": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "681575893767946244": {
+                    "experience": 116,
+                    "level": 1
+                },
+                "302739734386704386": {
+                    "experience": 541,
+                    "level": 4
+                },
+                "858250859644321812": {
+                    "experience": 206,
+                    "level": 2
+                },
+                "847122138079166534": {
+                    "experience": 78,
+                    "level": 1
+                },
+                "342648366989049859": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "512885190251642891": {
+                    "experience": 181,
+                    "level": 2
+                },
+                "847912271698067476": {
+                    "experience": 41,
+                    "level": 1
+                },
+                "541107320571297812": {
+                    "experience": 84,
+                    "level": 1
+                },
+                "536723878614138890": {
+                    "experience": 16,
+                    "level": 1
+                },
+                "875343484696027303": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "840822694475071498": {
+                    "experience": 16,
+                    "level": 1
+                },
+                "767449867672092702": {
+                    "experience": 15,
+                    "level": 1
+                },
+                "374060641994014721": {
+                    "experience": 12,
+                    "level": 1
+                },
+                "771246048555040769": {
+                    "experience": 35,
+                    "level": 1
+                },
+                "607884181451833384": {
+                    "experience": 22,
+                    "level": 1
+                },
+                "850647272055373833": {
+                    "experience": 2,
+                    "level": 1
+                }
+            }
+        },
+        "889912073549647883": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "801542036166934529": {
+                    "experience": 118,
+                    "level": 1
+                },
+                "713643130993377311": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "888628981186822174": {
+                    "experience": 28,
+                    "level": 1
+                }
+            }
+        },
+        "888798533459775488": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": [],
+                "feeds": {
+                    "Last_reddit_post": {
+                        "888806204690825297": "q12n9g",
+                        "894488846413209610": "q1btc1"
+                    },
+                    "redditfeed": {
+                        "888806204690825297": "teenagersbutnormal",
+                        "894488846413209610": "memes"
+                    }
+                }
+            },
+            "users": {
+                "512885190251642891": {
+                    "experience": 1947,
+                    "level": 9
+                },
+                "847912271698067476": {
+                    "experience": 65,
+                    "level": 1
+                },
+                "556731987545686018": {
+                    "experience": 14,
+                    "level": 1
+                },
+                "689529951850070056": {
+                    "experience": 1631,
+                    "level": 8
+                },
+                "869791578066157578": {
+                    "experience": 4827,
+                    "level": 17
+                },
+                "867917966757486613": {
+                    "experience": 2441,
+                    "level": 11
+                },
+                "371399616618299403": {
+                    "experience": 1254,
+                    "level": 7
+                },
+                "795770524218163242": {
+                    "experience": 1265,
+                    "level": 7
+                },
+                "840822694475071498": {
+                    "experience": 480,
+                    "level": 4
+                },
+                "653077583977644052": {
+                    "experience": 1557,
+                    "level": 8
+                },
+                "819877034418896906": {
+                    "experience": 396,
+                    "level": 3
+                },
+                "873257434909650984": {
+                    "experience": 15,
+                    "level": 1
+                },
+                "740874587348271234": {
+                    "experience": 973,
+                    "level": 6
+                },
+                "832379231795150848": {
+                    "experience": 3155,
+                    "level": 13
+                },
+                "816862726977486898": {
+                    "experience": 3471,
+                    "level": 14
+                },
+                "541107320571297812": {
+                    "experience": 300,
+                    "level": 3
+                },
+                "435443687531741205": {
+                    "experience": 151,
+                    "level": 1
+                },
+                "860091006384209940": {
+                    "experience": 231,
+                    "level": 2
+                },
+                "349391775183536140": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "582837895619149843": {
+                    "experience": 877,
+                    "level": 6
+                },
+                "757135723190288466": {
+                    "experience": 71,
+                    "level": 1
+                },
+                "712796987656896572": {
+                    "experience": 34,
+                    "level": 1
+                },
+                "693869904033480704": {
+                    "experience": 740,
+                    "level": 5
+                },
+                "406087861692137472": {
+                    "experience": 157,
+                    "level": 1
+                },
+                "875343484696027303": {
+                    "experience": 19,
+                    "level": 1
+                },
+                "738321299864289331": {
+                    "experience": 155,
+                    "level": 1
+                },
+                "310577250040807426": {
+                    "experience": 24,
+                    "level": 1
+                },
+                "762768232922218537": {
+                    "experience": 41,
+                    "level": 1
+                },
+                "372812851053723660": {
+                    "experience": 3,
+                    "level": 1
+                }
+            }
+        },
+        "699656558665138207": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "523909421726957578": {
+                    "experience": 51,
+                    "level": 1
+                },
+                "661642063280078868": {
+                    "experience": 118,
+                    "level": 1
+                },
+                "445162189037240343": {
+                    "experience": 65,
+                    "level": 1
+                },
+                "515604353713963040": {
+                    "experience": 28,
+                    "level": 1
+                }
+            }
+        },
+        "263620407872061450": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "245275413964652554": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "317659013200478208": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "341123127197040640": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "262486739837255681": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "536554432020873216": {
+                    "experience": 19,
+                    "level": 1
+                }
+            }
+        },
+        "856942850079719435": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "643453821770661918": {
+                    "experience": 43,
+                    "level": 1
+                },
+                "668962757244223549": {
+                    "experience": 47,
+                    "level": 1
+                }
+            }
+        },
+        "840245173162344449": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "767514309528911874": {
+                    "experience": 20,
+                    "level": 1
+                },
+                "675444104892776449": {
+                    "experience": 6,
+                    "level": 1
+                }
+            }
+        },
+        "893433459299741706": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "813855109351211070": {
+                    "experience": 459,
+                    "level": 3
+                },
+                "813860716129157172": {
+                    "experience": 839,
+                    "level": 5
+                },
+                "850765233433608202": {
+                    "experience": 461,
+                    "level": 3
+                }
+            }
+        },
+        "882711432955826227": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "878546631593697322": {
+                    "experience": 190,
+                    "level": 2
+                },
+                "759165356425216010": {
+                    "experience": 144,
+                    "level": 1
+                },
+                "780942707496976414": {
+                    "experience": 453,
+                    "level": 3
+                },
+                "471353861630722061": {
+                    "experience": 151,
+                    "level": 1
+                },
+                "490694709480783901": {
+                    "experience": 131,
+                    "level": 1
+                },
+                "850140471048798228": {
+                    "experience": 12,
+                    "level": 1
+                },
+                "796774250852778014": {
+                    "experience": 250,
+                    "level": 2
+                },
+                "807659575058497576": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "792423223777558549": {
+                    "experience": 76,
+                    "level": 1
+                },
+                "783158143639093248": {
+                    "experience": 4,
+                    "level": 1
+                }
+            }
+        },
+        "893349519209664523": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "875777440583135242": {
+                    "experience": 35,
+                    "level": 1
+                },
+                "707407353112166511": {
+                    "experience": 73,
+                    "level": 1
+                },
+                "784622507172298773": {
+                    "experience": 940,
+                    "level": 6
+                },
+                "699206089241133137": {
+                    "experience": 266,
+                    "level": 2
+                },
+                "695438454946791515": {
+                    "experience": 18,
+                    "level": 1
+                },
+                "872298332314279996": {
+                    "experience": 3,
+                    "level": 1
+                },
+                "840160887347085322": {
+                    "experience": 23,
+                    "level": 1
+                },
+                "742320691323600927": {
+                    "experience": 56,
+                    "level": 1
+                }
+            }
+        },
+        "830123828461174784": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "864959263058558986": {
+                    "experience": 11,
+                    "level": 1
+                },
+                "693869904033480704": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "873257434909650984": {
+                    "experience": 11,
+                    "level": 1
+                },
+                "817491611969519680": {
+                    "experience": 16,
+                    "level": 1
+                },
+                "455645686730457099": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "463817642113761291": {
+                    "experience": 12,
+                    "level": 1
+                },
+                "229255032111890434": {
+                    "experience": 218,
+                    "level": 2
+                },
+                "816862726977486898": {
+                    "experience": 278,
+                    "level": 2
+                },
+                "541107320571297812": {
+                    "experience": 12,
+                    "level": 1
+                }
+            }
+        },
+        "860053510283591680": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "732532084177895464": {
+                    "experience": 410,
+                    "level": 3
+                },
+                "512885190251642891": {
+                    "experience": 50,
+                    "level": 1
+                },
+                "541107320571297812": {
+                    "experience": 120,
+                    "level": 1
+                },
+                "847912271698067476": {
+                    "experience": 202,
+                    "level": 2
+                },
+                "773180307292946462": {
+                    "experience": 70,
+                    "level": 1
+                }
+            }
+        },
+        "776972872384118785": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "661948594638553089": {
+                    "experience": 12,
+                    "level": 1
+                },
+                "721295256284561408": {
+                    "experience": 65,
+                    "level": 1
+                },
+                "587732123650097152": {
+                    "experience": 10,
+                    "level": 1
+                },
+                "712825938882068541": {
+                    "experience": 82,
+                    "level": 1
+                },
+                "277735524725293066": {
+                    "experience": 49,
+                    "level": 1
+                },
+                "563719580254732291": {
+                    "experience": 51,
+                    "level": 1
+                },
+                "435301223739162634": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "704301088496418877": {
+                    "experience": 14,
+                    "level": 1
+                },
+                "246173690570604544": {
+                    "experience": 3,
+                    "level": 1
+                },
+                "701238475847892992": {
+                    "experience": 18,
+                    "level": 1
+                }
+            }
+        },
+        "892557487079845908": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "833505024020578314": {
+                    "experience": 376,
+                    "level": 3
+                },
+                "887046165487575040": {
+                    "experience": 307,
+                    "level": 3
+                }
+            }
+        },
+        "886875888745070623": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "832312681134030858": {
+                    "experience": 18,
+                    "level": 1
+                },
+                "621517762715582484": {
+                    "experience": 32,
+                    "level": 1
+                },
+                "894067574822830120": {
+                    "experience": 3,
+                    "level": 1
+                },
+                "314806868939636736": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "678848477073113100": {
+                    "experience": 24,
+                    "level": 1
+                },
+                "879245164776927292": {
+                    "experience": 14,
+                    "level": 1
+                },
+                "861467373754908682": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "99199638782885888": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "839524448494288897": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "758517281700446219": {
+                    "experience": 5,
+                    "level": 1
+                }
+            }
+        },
+        "891696189681057832": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "825743941433294889": {
+                    "experience": 349,
+                    "level": 3
+                },
+                "859923551251726340": {
+                    "experience": 123,
+                    "level": 1
+                },
+                "824384100164960257": {
+                    "experience": 250,
+                    "level": 2
+                }
+            }
+        },
+        "893416783401324594": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "403914901539651606": {
+                    "experience": 1634,
+                    "level": 8
+                },
+                "713930196482260994": {
+                    "experience": 582,
+                    "level": 4
+                }
+            }
+        },
+        "893098966458200105": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "847856738588819527": {
+                    "experience": 2266,
+                    "level": 10
+                },
+                "743118967299637251": {
+                    "experience": 45,
+                    "level": 1
+                },
+                "869182872270041088": {
+                    "experience": 1866,
+                    "level": 9
+                },
+                "544824576715259904": {
+                    "experience": 39,
+                    "level": 1
+                },
+                "783912803907403796": {
+                    "experience": 56,
+                    "level": 1
+                },
+                "709289684261535758": {
+                    "experience": 52,
+                    "level": 1
+                }
+            }
+        },
+        "878457271045226516": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "542541108610072588": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "639990051102523423": {
+                    "experience": 55,
+                    "level": 1
+                },
+                "758755287859068986": {
+                    "experience": 22,
+                    "level": 1
+                }
+            }
+        },
+        "887710481224196186": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "847912271698067476": {
+                    "experience": 319,
+                    "level": 3
+                }
+            }
+        },
+        "888454683256049715": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "689505780377845799": {
+                    "experience": 53,
+                    "level": 1
+                },
+                "302739734386704386": {
+                    "experience": 125,
+                    "level": 1
+                },
+                "457566502841745408": {
+                    "experience": 21,
+                    "level": 1
+                },
+                "480007156393967636": {
+                    "experience": 17,
+                    "level": 1
+                }
+            }
+        },
+        "797992894224138270": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "409033537547796481": {
+                    "experience": 63,
+                    "level": 1
+                },
+                "183369094165168129": {
+                    "experience": 26,
+                    "level": 1
+                }
+            }
+        },
+        "651184904855617547": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "246977957313118208": {
+                    "experience": 151,
+                    "level": 1
+                },
+                "327889140546797568": {
+                    "experience": 123,
+                    "level": 1
+                },
+                "873532270848397333": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "257953140677017601": {
+                    "experience": 43,
+                    "level": 1
+                },
+                "373789395540508672": {
+                    "experience": 9,
+                    "level": 1
+                },
+                "333645339607302146": {
+                    "experience": 92,
+                    "level": 1
+                },
+                "351798564466196493": {
+                    "experience": 14,
+                    "level": 1
+                }
+            }
+        },
+        "847000033576484907": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "419667015016382494": {
+                    "experience": 35,
+                    "level": 1
+                },
+                "771246048555040769": {
+                    "experience": 183,
+                    "level": 2
+                },
+                "674180645211078676": {
+                    "experience": 763,
+                    "level": 5
+                },
+                "712796987656896572": {
+                    "experience": 1045,
+                    "level": 6
+                },
+                "669576581949161482": {
+                    "experience": 122,
+                    "level": 1
+                },
+                "374060641994014721": {
+                    "experience": 452,
+                    "level": 3
+                },
+                "376198750793891841": {
+                    "experience": 58,
+                    "level": 1
+                },
+                "773973371612299306": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "762768232922218537": {
+                    "experience": 12,
+                    "level": 1
+                }
+            }
+        },
+        "878092801873702972": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "627994626502033439": {
+                    "experience": 748,
+                    "level": 5
+                },
+                "877569702946279434": {
+                    "experience": 248,
+                    "level": 2
+                },
+                "540991273641836554": {
+                    "experience": 380,
+                    "level": 3
+                },
+                "757117102351187988": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "798390603397464084": {
+                    "experience": 50,
+                    "level": 1
+                },
+                "849559142921142272": {
+                    "experience": 148,
+                    "level": 1
+                },
+                "854546630346145843": {
+                    "experience": 182,
+                    "level": 2
+                },
+                "874146352131629147": {
+                    "experience": 180,
+                    "level": 2
+                },
+                "894153509136654386": {
+                    "experience": 9,
+                    "level": 1
+                },
+                "788344039161593866": {
+                    "experience": 16,
+                    "level": 1
+                },
+                "765191190621847573": {
+                    "experience": 58,
+                    "level": 1
+                }
+            }
+        },
+        "885035510580523078": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "857198779782529034": {
+                    "experience": 23,
+                    "level": 1
+                },
+                "471576833457127426": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "472245388385189904": {
+                    "experience": 27,
+                    "level": 1
+                },
+                "888544045083807794": {
+                    "experience": 12,
+                    "level": 1
+                },
+                "855342345645195296": {
+                    "experience": 39,
+                    "level": 1
+                },
+                "862711621134450719": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "528882917011619860": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "790068880743071784": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "682485155704602664": {
+                    "experience": 7,
+                    "level": 1
+                }
+            }
+        },
+        "796778134946054164": {
+            "settings": {
+                "levelon": false,
+                "filtered_words": []
+            },
+            "users": {
+                "759156877929480242": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "371399616618299403": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "755055464458485850": {
+                    "experience": 20,
+                    "level": 1
+                },
+                "794335418778255370": {
+                    "experience": 10,
+                    "level": 1
+                }
+            }
+        },
+        "893478216566730792": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "879358847796539452": {
+                    "experience": 526,
+                    "level": 4
+                },
+                "558813290117988364": {
+                    "experience": 245,
+                    "level": 2
+                },
+                "809698783311036456": {
+                    "experience": 237,
+                    "level": 2
+                },
+                "819877034418896906": {
+                    "experience": 1620,
+                    "level": 8
+                },
+                "875215292878438460": {
+                    "experience": 17,
+                    "level": 1
+                },
+                "867390182546210817": {
+                    "experience": 63,
+                    "level": 1
+                },
+                "304951583219646466": {
+                    "experience": 32,
+                    "level": 1
+                },
+                "881027789388648469": {
+                    "experience": 1950,
+                    "level": 9
+                },
+                "860091006384209940": {
+                    "experience": 402,
+                    "level": 3
+                },
+                "588164241681416203": {
+                    "experience": 84,
+                    "level": 1
+                },
+                "404056373681192980": {
+                    "experience": 44,
+                    "level": 1
+                },
+                "429544078250737665": {
+                    "experience": 169,
+                    "level": 2
+                },
+                "461986517703852046": {
+                    "experience": 41,
+                    "level": 1
+                },
+                "776047398673842177": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "336484391821770753": {
+                    "experience": 100,
+                    "level": 1
+                },
+                "801882632253603873": {
+                    "experience": 164,
+                    "level": 1
+                },
+                "535986066889506838": {
+                    "experience": 28,
+                    "level": 1
+                },
+                "749021889996783697": {
+                    "experience": 274,
+                    "level": 2
+                },
+                "882983128635936808": {
+                    "experience": 182,
+                    "level": 2
+                },
+                "874583265326018592": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "652595085573095444": {
+                    "experience": 13,
+                    "level": 1
+                },
+                "313016924978151424": {
+                    "experience": 36,
+                    "level": 1
+                },
+                "690862112410566697": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "416628420907237388": {
+                    "experience": 25,
+                    "level": 1
+                },
+                "879741397253644299": {
+                    "experience": 11,
+                    "level": 1
+                },
+                "421764378229080075": {
+                    "experience": 13,
+                    "level": 1
+                },
+                "829815821353484309": {
+                    "experience": 71,
+                    "level": 1
+                },
+                "597386245966004224": {
+                    "experience": 15,
+                    "level": 1
+                }
+            }
+        },
+        "840608254840668201": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "675852674255814683": {
+                    "experience": 15,
+                    "level": 1
+                },
+                "830827620362092605": {
+                    "experience": 188,
+                    "level": 2
+                },
+                "364316006119768066": {
+                    "experience": 264,
+                    "level": 2
+                },
+                "748067474112643104": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "263367387724644353": {
+                    "experience": 21,
+                    "level": 1
+                },
+                "866189117469360138": {
+                    "experience": 69,
+                    "level": 1
+                },
+                "514108608452231208": {
+                    "experience": 22,
+                    "level": 1
+                }
+            }
+        },
+        "877858010800717904": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "710007606663577602": {
+                    "experience": 1951,
+                    "level": 9
+                },
+                "850708579614064692": {
+                    "experience": 939,
+                    "level": 6
+                },
+                "699489791330353192": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "875343484696027303": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "861914855690469386": {
+                    "experience": 921,
+                    "level": 6
+                },
+                "773180307292946462": {
+                    "experience": 1016,
+                    "level": 6
+                },
+                "674696827358150677": {
+                    "experience": 3,
+                    "level": 1
+                },
+                "697359891437846619": {
+                    "experience": 61,
+                    "level": 1
+                },
+                "541107320571297812": {
+                    "experience": 13,
+                    "level": 1
+                },
+                "894227017057333269": {
+                    "experience": 25,
+                    "level": 1
+                },
+                "894231100124168253": {
+                    "experience": 57,
+                    "level": 1
+                }
+            }
+        },
+        "893409352340357151": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "760395452469215275": {
+                    "experience": 9,
+                    "level": 1
+                },
+                "730691659582406716": {
+                    "experience": 6,
+                    "level": 1
+                }
+            }
+        },
+        "881141053980299304": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "781497703393132594": {
+                    "experience": 11,
+                    "level": 1
+                },
+                "869981269142954024": {
+                    "experience": 134,
+                    "level": 1
+                },
+                "857214829047971850": {
+                    "experience": 17,
+                    "level": 1
+                },
+                "748538852242620516": {
+                    "experience": 39,
+                    "level": 1
+                },
+                "764128229090394142": {
+                    "experience": 460,
+                    "level": 3
+                },
+                "513497734565593108": {
+                    "experience": 20,
+                    "level": 1
+                },
+                "346585940640137216": {
+                    "experience": 47,
+                    "level": 1
+                },
+                "870327134797852673": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "881211350989299793": {
+                    "experience": 201,
+                    "level": 2
+                },
+                "868757703512694805": {
+                    "experience": 46,
+                    "level": 1
+                },
+                "698543396750360612": {
+                    "experience": 117,
+                    "level": 1
+                },
+                "869250247455567923": {
+                    "experience": 84,
+                    "level": 1
+                },
+                "717049535234572378": {
+                    "experience": 10,
+                    "level": 1
+                },
+                "881101376510378004": {
+                    "experience": 39,
+                    "level": 1
+                },
+                "888713944234094634": {
+                    "experience": 28,
+                    "level": 1
+                },
+                "758595465968091157": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "869252945554866187": {
+                    "experience": 31,
+                    "level": 1
+                },
+                "763714440674934794": {
+                    "experience": 306,
+                    "level": 3
+                },
+                "734765851584102471": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "842113606204391464": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "756501491661013113": {
+                    "experience": 143,
+                    "level": 1
+                },
+                "863377295985213460": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "780611066451066901": {
+                    "experience": 13,
+                    "level": 1
+                },
+                "856545012523335680": {
+                    "experience": 13,
+                    "level": 1
+                },
+                "842673785123110912": {
+                    "experience": 21,
+                    "level": 1
+                },
+                "844073741381009508": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "870278154219057182": {
+                    "experience": 47,
+                    "level": 1
+                },
+                "756733580729909321": {
+                    "experience": 26,
+                    "level": 1
+                },
+                "740890556913156187": {
+                    "experience": 23,
+                    "level": 1
+                },
+                "856535769392611329": {
+                    "experience": 18,
+                    "level": 1
+                },
+                "525682111903170581": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "758697656032690176": {
+                    "experience": 15,
+                    "level": 1
+                },
+                "284921389780041728": {
+                    "experience": 56,
+                    "level": 1
+                },
+                "848948418667479050": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "846638292643348501": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "859787101553950753": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "823841438839865345": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "530987173831507979": {
+                    "experience": 141,
+                    "level": 1
+                },
+                "856159389760487464": {
+                    "experience": 71,
+                    "level": 1
+                },
+                "869875486598254632": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "755778080290766888": {
+                    "experience": 10,
+                    "level": 1
+                },
+                "890942003406327918": {
+                    "experience": 3,
+                    "level": 1
+                },
+                "788394802747408384": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "672116116507590696": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "893457571208364072": {
+                    "experience": 6,
+                    "level": 1
+                }
+            }
+        },
+        "883480841064415283": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "882801046357966918": {
+                    "experience": 156,
+                    "level": 1
+                }
+            }
+        },
+        "835132414795055114": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "764007096865783838": {
+                    "experience": 147,
+                    "level": 1
+                },
+                "763956821655814204": {
+                    "experience": 2,
+                    "level": 1
+                }
+            }
+        },
+        "864754508362285057": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "796584962303197220": {
+                    "experience": 36,
+                    "level": 1
+                },
+                "759063497127624784": {
+                    "experience": 241,
+                    "level": 2
+                },
+                "727106368548503592": {
+                    "experience": 40,
+                    "level": 1
+                },
+                "752449907217924158": {
+                    "experience": 627,
+                    "level": 4
+                },
+                "761110526490443817": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "754282675136757791": {
+                    "experience": 70,
+                    "level": 1
+                },
+                "877428602956832768": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "881524412157931571": {
+                    "experience": 14,
+                    "level": 1
+                },
+                "887979437117816843": {
+                    "experience": 15,
+                    "level": 1
+                },
+                "814422155629559879": {
+                    "experience": 79,
+                    "level": 1
+                },
+                "718719719032487996": {
+                    "experience": 169,
+                    "level": 2
+                },
+                "767635744180142100": {
+                    "experience": 15,
+                    "level": 1
+                },
+                "871732266810896454": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "859383245833764874": {
+                    "experience": 20,
+                    "level": 1
+                }
+            }
+        },
+        "852037745538629633": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "829245480587624459": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "545772307336003584": {
+                    "experience": 9,
+                    "level": 1
+                }
+            }
+        },
+        "893374250914828308": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "752095235869507645": {
+                    "experience": 17,
+                    "level": 1
+                },
+                "837720067932028958": {
+                    "experience": 14,
+                    "level": 1
+                },
+                "824777719812194315": {
+                    "experience": 4,
+                    "level": 1
+                }
+            }
+        },
+        "882095581474984007": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "832379231795150848": {
+                    "experience": 19,
+                    "level": 1
+                },
+                "767449867672092702": {
+                    "experience": 32,
+                    "level": 1
+                },
+                "521251234494283796": {
+                    "experience": 8,
+                    "level": 1
+                }
+            }
+        },
+        "858380988036022312": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "806519346159026177": {
+                    "experience": 96,
+                    "level": 1
+                },
+                "704185147175731271": {
+                    "experience": 6,
+                    "level": 1
+                }
+            }
+        },
+        "885418463131222067": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "850256040977367051": {
+                    "experience": 75,
+                    "level": 1
+                },
+                "738651746997501993": {
+                    "experience": 311,
+                    "level": 3
+                },
+                "893469086279954462": {
+                    "experience": 19,
+                    "level": 1
+                },
+                "893479743884771389": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "697388894718656573": {
+                    "experience": 33,
+                    "level": 1
+                }
+            }
+        },
+        "758205093660327957": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "758204769365131335": {
+                    "experience": 6,
+                    "level": 1
+                }
+            }
+        },
+        "878237686870188032": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "498108396935970816": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "870985764954079252": {
+                    "experience": 25,
+                    "level": 1
+                },
+                "847912271698067476": {
+                    "experience": 66,
+                    "level": 1
+                },
+                "773180307292946462": {
+                    "experience": 34,
+                    "level": 1
+                }
+            }
+        },
+        "850257337104203777": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "850256040977367051": {
+                    "experience": 43,
+                    "level": 1
+                },
+                "754396744904736788": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "893479743884771389": {
+                    "experience": 4,
+                    "level": 1
+                },
+                "738651746997501993": {
+                    "experience": 30,
+                    "level": 1
+                }
+            }
+        },
+        "888029761157353553": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "883871693888688180": {
+                    "experience": 325,
+                    "level": 3
+                },
+                "871728778349539398": {
+                    "experience": 27,
+                    "level": 1
+                },
+                "884256982767378474": {
+                    "experience": 66,
+                    "level": 1
+                },
+                "872443163627900948": {
+                    "experience": 38,
+                    "level": 1
+                },
+                "866604161461911562": {
+                    "experience": 75,
+                    "level": 1
+                },
+                "673791596713738240": {
+                    "experience": 5,
+                    "level": 1
+                },
+                "757533588173619262": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "844237810483593227": {
+                    "experience": 3,
+                    "level": 1
+                },
+                "894474002196750396": {
+                    "experience": 156,
+                    "level": 1
+                }
+            }
+        },
+        "856032184451072023": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "554304026095648768": {
+                    "experience": 32,
+                    "level": 1
+                },
+                "770959485706829874": {
+                    "experience": 2,
+                    "level": 1
+                },
+                "670320061713612836": {
+                    "experience": 7,
+                    "level": 1
+                }
+            }
+        },
+        "878262144259481660": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "870985764954079252": {
+                    "experience": 218,
+                    "level": 2
+                },
+                "847912271698067476": {
+                    "experience": 81,
+                    "level": 1
+                },
+                "773180307292946462": {
+                    "experience": 124,
+                    "level": 1
+                },
+                "541107320571297812": {
+                    "experience": 70,
+                    "level": 1
+                },
+                "814939402030940160": {
+                    "experience": 37,
+                    "level": 1
+                },
+                "697359891437846619": {
+                    "experience": 59,
+                    "level": 1
+                },
+                "694552456868397176": {
+                    "experience": 254,
+                    "level": 2
+                },
+                "523879423678742538": {
+                    "experience": 6,
+                    "level": 1
+                },
+                "502371272718680065": {
+                    "experience": 8,
+                    "level": 1
+                },
+                "861914855690469386": {
+                    "experience": 17,
+                    "level": 1
+                },
+                "875343484696027303": {
+                    "experience": 10,
+                    "level": 1
+                }
+            }
+        },
+        "803905852947169300": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "526565862296125470": {
+                    "experience": 5,
+                    "level": 1
+                }
+            }
+        },
+        "818263257978503188": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "457222452678754304": {
+                    "experience": 3,
+                    "level": 1
+                }
+            }
+        },
+        "869273573943029770": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "850408355875913798": {
+                    "experience": 108,
+                    "level": 1
+                },
+                "763035059249872957": {
+                    "experience": 586,
+                    "level": 4
+                },
+                "848293106306121729": {
+                    "experience": 372,
+                    "level": 3
+                }
+            }
+        },
+        "892041245470392320": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "806000588063768626": {
+                    "experience": 109,
+                    "level": 1
+                }
+            }
+        },
+        "731940599858724905": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "690210745685901315": {
+                    "experience": 5,
+                    "level": 1
+                }
+            }
+        },
+        "880183391838928916": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "727901017559007253": {
+                    "experience": 376,
+                    "level": 3
+                }
+            }
+        },
+        "873889237693526076": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "732532084177895464": {
+                    "experience": 76,
+                    "level": 1
+                },
+                "670922957207502859": {
+                    "experience": 13,
+                    "level": 1
+                },
+                "735709365767635044": {
+                    "experience": 160,
+                    "level": 1
+                },
+                "757107497462005841": {
+                    "experience": 45,
+                    "level": 1
+                }
+            }
+        },
+        "893864414434979890": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "893857481153994782": {
+                    "experience": 65,
+                    "level": 1
+                },
+                "844577231728017411": {
+                    "experience": 23,
+                    "level": 1
+                }
+            }
+        },
+        "885092271660363838": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "840790455767924767": {
+                    "experience": 22,
+                    "level": 1
+                }
+            }
+        },
+        "867621850854195221": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "714043410406965338": {
+                    "experience": 27,
+                    "level": 1
+                },
+                "701057120761675827": {
+                    "experience": 14,
+                    "level": 1
+                }
+            }
+        },
+        "791199609183141889": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "478933108398358543": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "732532084177895464": {
+                    "experience": 7,
+                    "level": 1
+                },
+                "774237221594726411": {
+                    "experience": 16,
+                    "level": 1
+                },
+                "757107497462005841": {
+                    "experience": 2,
+                    "level": 1
+                }
+            }
+        },
+        "707962768925392987": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "339450399369199626": {
+                    "experience": 14,
+                    "level": 1
+                }
+            }
+        },
+        "888815278979444827": {
+            "settings": {
+                "levelon": true,
+                "filtered_words": []
+            },
+            "users": {
+                "856460558844035102": {
+                    "experience": 3,
+                    "level": 1
+                }
+            }
+        }
+    }
+}

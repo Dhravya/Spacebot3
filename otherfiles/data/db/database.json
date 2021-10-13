@@ -1,0 +1,17 @@
+{
+    "servers": {
+        "896097133994836020": {
+            "settings": {
+                "levelon": true,
+                "level_channel": null,
+                "filtered_words": []
+            },
+            "users": {
+                "512885190251642891": {
+                    "experience": 86,
+                    "level": 1
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "short": {
+        ":tools: Utility:": "`ascii`,`channelinfo`,`choose`,`clap`,`convert`,`copyemoji`,`covid`,`define`,`dev`,`embed`,`feeds`,`google`,`invite`,`joined`,`lenny`,`math`,`maxfont`,`members`,`meme`,`morse`,`multi_choice`,`ping`,`poll`,`rate`,`reverse`,`serverinfo`,`spoiler`,`strikethrough`,`subreddit`,`suggestdev`,`synonym`,`text_to_emoji`,`tinyurl`,`translatef`,`translateg`,`ud`,`unmorse`,`vote`,`whois`,`whoisplaying`,`wiki`,`wolfram`,`wolframimage`,`wolframsolve`,`youtube`,`imagesearch`,`avatar`",
+        ":stuck_out_tongue_winking_eye: Fun:": "`ai`,`akinator`,`annoy ask trump`,`beer`,`britainify`,`clownrate`,`coinflip`,`cool`,`dadjoke`,`dare`,`darkjoke`,`eightball`,`f`,`fact`,`hit`,`hotcalc`,`iqrate`,`numberfact`,`owofy`,`rainbow`,`randomcomic`,`roast`,`sanitycheck`,`simprate`,`slap`,`sus`,`talk_rude`,`tenor`,`thank`,`truth`,`thankcount`",
+        ":camera: Image:": "`achievement`,`affect`,`amiajoke`,`bad`,`birb`,`calling`,`captcha`,`cat`,`catgirl`,`coffee`,`colourify`,`didumean`,`disfine`,`dog`,`drake`,`factimage`,`filter`,`floor`,`fml`,`imgur`,`kill`,`salty`,`scroll`,`shame`,`ship`,`textart`,`wanted`,`what`",
+        ":musical_note: Music:": "`clear`, `forceskip`, `now`, `pause`, `p`, `queue`, `remove`, `repeat`, `resume`, `save`, `shuffle`, `skip`, `stop`, `volume`,`leave`,`lofi`,`loop`,`summon`",
+        ":tools: Moderation:": "`ban`,`censoredwords`,`clean`,`fotd`,`kick`,`mute`,`prune`,`qotd`,`removecensor`,`softban`,`unmute`,`warn`,`wordcensor`",
+        ":up: Levelling:": "`disable_lvl`,`enable_lvl`,`leaderboard`,`level`,`level_channel`,`disable_level_ping`,`enable_level_ping`",
+        ":joystick: Game:": "`2048`,`21dares`,`chess`,`connect4`,`hangman`,`rps`,`tic`",
+        ":gear: Misc:": "`discomegle`, 'typerace` , `space`"
+    }
+}
